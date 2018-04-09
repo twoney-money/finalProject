@@ -9,10 +9,10 @@
 #Import libraries
 import pygame
 import sys
-from ship import Ship()
-from laser import Laser()
-from settings import Settings()
-from boss import Boss()
+from ship import Ship
+from laser import Laser
+from settings import Settings
+from boss import Boss
 
 
 
